@@ -1,0 +1,11 @@
+Inventory Manager
+
+You are building a simple inventory system for a small shop. Implement a class Inventory in C# that supports the following operations:
+
+1. Add a product by name and quanitity. If product already exists, increase its quantity.
+
+2. Remove a quantity of a product. If the quantity drops to zero or below remove the product entirely.
+
+3. Get stock by returing the current quantity of a given product.
+
+4. Track product that is most stocked, and alert the user with a list of all product names where quantity is below a given threshold.

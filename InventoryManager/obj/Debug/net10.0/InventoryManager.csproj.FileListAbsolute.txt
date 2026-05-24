@@ -1,0 +1,14 @@
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/bin/Debug/net10.0/InventoryManager
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/bin/Debug/net10.0/InventoryManager.deps.json
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/bin/Debug/net10.0/InventoryManager.runtimeconfig.json
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/bin/Debug/net10.0/InventoryManager.dll
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/bin/Debug/net10.0/InventoryManager.pdb
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.AssemblyInfoInputs.cache
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.AssemblyInfo.cs
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.csproj.CoreCompileInputs.cache
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.dll
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/refint/InventoryManager.dll
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.pdb
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/InventoryManager.genruntimeconfig.cache
+/Users/taddtrumbullii/Desktop/Challenges/InventoryManager/obj/Debug/net10.0/ref/InventoryManager.dll
